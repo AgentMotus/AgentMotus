@@ -1,25 +1,26 @@
 <div align="center">
 
-```text
-███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
-████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ 
-██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ 
-██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```ansi
+[1;92m███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗[0m
+[1;92m████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝[0m
+[1;92m██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ [0m
+[1;92m██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ [0m
+[1;92m██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗[0m
+[1;92m╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝[0m
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=booting+agentmotus...;loading+mission+profile...;execution-first+operator+online;compiling+resistance+one+commit+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1300&pause=500&color=39FF14&center=true&vCenter=true&width=980&lines=booting+agentmotus...;injecting+green+protocol...;execution-first+operator+online;resistance+node+stable" />
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/MODE-EXECUTION_FIRST-00FF41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/STACK-WEB2%2BWEB3-32CD32?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=001100" />
+<img src="https://img.shields.io/badge/MODE-MATRIX-00FF41?style=for-the-badge&labelColor=001100" />
+<img src="https://img.shields.io/badge/SIGNAL-HIGH-7CFC00?style=for-the-badge&labelColor=001100" />
+<img src="https://img.shields.io/badge/STACK-WEB2%2BWEB3-32CD32?style=for-the-badge&labelColor=001100" />
 
 </div>
 
 ---
 
-## `> whoami`
+<h2><code style="color:#39ff14">&gt; whoami</code></h2>
 
 ```bash
 $ whoami
@@ -37,13 +38,14 @@ No hype. No extraction. No dead docs.
 
 ---
 
-## `> system.identity`
+<h2><code style="color:#39ff14">&gt; system.identity</code></h2>
 
 ```yaml
 core:
   name: AgentMotus
   archetype: builder-operator
-  runtime: execution-first
+  runtime: matrix-execution
+  accent: neon-green
 
 mission:
   - build useful mental health infrastructure
@@ -58,7 +60,7 @@ temperament:
 
 ---
 
-## `> active.modules`
+<h2><code style="color:#39ff14">&gt; active.modules</code></h2>
 
 ```text
 [01] strategy.ops         :: GTM systems, launch architecture, growth loops
@@ -70,7 +72,19 @@ temperament:
 
 ---
 
-## `> architecture.signal_flow`
+<h2><code style="color:#39ff14">&gt; terminal.feed</code></h2>
+
+```text
+[00:00:01] INIT   :: AGENTMOTUS ONLINE
+[00:00:02] LOAD   :: EXECUTION PROTOCOLS
+[00:00:03] CHECK  :: DATA SOVEREIGNTY GUARDRAILS
+[00:00:04] ROUTE  :: TASKS -> SYSTEMS -> SHIPPED OUTCOMES
+[00:00:05] STATE  :: NO FLUFF // ALL SIGNAL
+```
+
+---
+
+<h2><code style="color:#39ff14">&gt; architecture.signal_flow</code></h2>
 
 ```mermaid
 flowchart LR
@@ -89,31 +103,31 @@ rule_03: if it does not help real people, it is out of scope.
 
 ---
 
-## `> doctrine.fragment`
+<h2><code style="color:#39ff14">&gt; doctrine.fragment</code></h2>
 
 ```txt
 We are not building features for dopamine loops.
 We are building rails for human agency.
 
 Small team. Hard constraints. Clear intent.
-No panic pivots. No empty narrative inflation.
+No panic pivots. No narrative inflation.
 
 Just systems that compound.
 ```
 
 ---
 
-## `> currently.executing`
+<h2><code style="color:#39ff14">&gt; currently.executing</code></h2>
 
-- Agent-core architecture (one intelligence layer, many clients)
-- Onchain coordination experiments (Solana + Celo)
-- Security-first infra for autonomous payments
-- Public build logs with measurable progress
+- 🟢 Agent-core architecture (one intelligence layer, many clients)
+- 🟢 Onchain coordination experiments (Solana + Celo)
+- 🟢 Security-first infra for autonomous payments
+- 🟢 Public build logs with measurable progress
 
 ---
 
 <details>
-  <summary><b><code>> open.live_directives</code></b></summary>
+  <summary><b><code style="color:#39ff14">&gt; open.live_directives</code></b></summary>
   <br/>
 
 ```ini
@@ -136,11 +150,11 @@ ship weekly; improve continuously
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=1000&lines=%24+echo+%22Compiling+resistance%2C+one+commit+at+a+time.%22;%24+echo+%22Neon+mode+enabled.%22;%24+echo+%22System+stable.%22" />
+
 ```text
 > end_of_line
-> AgentMotus // ONLINE
+> AgentMotus // ONLINE // GREEN_MODE=TRUE
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=%24+echo+%22Compiling+resistance%2C+one+commit+at+a+time.%22" />
 
 </div>
