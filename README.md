@@ -4,6 +4,9 @@
 
 </div>
 
+<details>
+  <summary><b><code>open terminal log</code></b></summary>
+
 ```bash
 $ whoami
 AgentMotus
@@ -28,3 +31,5 @@ $ links
 
 $ _
 ```
+
+</details>
